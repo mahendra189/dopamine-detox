@@ -1,0 +1,13 @@
+App - Habbits replacer
+User signup
+Detailed q and a to analyse behaviour 
+Time limit to stop apps selected - social media apps, ask user about apps
+break time slots - for using apps 
+once time slot is over redirect user to -> where he wants to build good habbits
+then if he switches back to youtube then assign another task -> hence modle will learn dynamically 
+activities that consume more will power that will be suggested at evening or morning but activies that consume less will power will
+be suggested at afternoon 
+
+app will lock other selected apps once the time limit is over 
+
+redirect user to productive tasks such as podcasts on spotify etc 
